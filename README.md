@@ -1,5 +1,12 @@
 # rm-linux-lockdown
 
+A simple open-source utility from Rath Meridian. Adversary Insight, Executive
+Clarity.
+
+https://rathmeridian.com/
+
+USE AT YOUR OWN RISK! NO WARRANTY OR GUARANTEE PROVIDED.
+
 A bash utility to lock down a fresh Linux installation: it closes
 non-essential open TCP/UDP ports, disables non-essential services, and
 configures the host firewall with a default-deny-inbound policy. It works
